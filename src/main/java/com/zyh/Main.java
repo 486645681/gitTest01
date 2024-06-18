@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello world!2");
         System.out.println("Hello world!3");
         System.out.println("Hello world!4");
+        System.out.println("hot-fix test");
         System.out.println("master test");
     }
 }
